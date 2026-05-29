@@ -1,0 +1,30 @@
+body {
+    background-color: #f5f7fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #003366;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-item img {
+    height: 220px;
+    object-fit: cover;
+}
+
+.btn-primary {
+    background-color: #003366;
+    border: none;
+}
+
+iframe {
+    border-radius: 10px;
+}
